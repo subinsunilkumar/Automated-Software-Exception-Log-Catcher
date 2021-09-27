@@ -1,0 +1,20 @@
+D:\QA Tools\DuplicateCodeRemover\trunk\Code Duplicate Remover\bin\Debug\Code Duplicate Remover.exe.config
+D:\QA Tools\DuplicateCodeRemover\trunk\Code Duplicate Remover\bin\Debug\Code Duplicate Remover.exe
+D:\QA Tools\DuplicateCodeRemover\trunk\Code Duplicate Remover\bin\Debug\Code Duplicate Remover.pdb
+D:\QA Tools\DuplicateCodeRemover\trunk\Code Duplicate Remover\obj\Debug\Code Duplicate Remover.csprojAssemblyReference.cache
+D:\QA Tools\DuplicateCodeRemover\trunk\Code Duplicate Remover\obj\Debug\Execute_Selected_Tests.Form1.resources
+D:\QA Tools\DuplicateCodeRemover\trunk\Code Duplicate Remover\obj\Debug\Execute_Selected_Tests.Properties.Resources.resources
+D:\QA Tools\DuplicateCodeRemover\trunk\Code Duplicate Remover\obj\Debug\Code Duplicate Remover.csproj.GenerateResource.cache
+D:\QA Tools\DuplicateCodeRemover\trunk\Code Duplicate Remover\obj\Debug\Code Duplicate Remover.csproj.CoreCompileInputs.cache
+D:\QA Tools\DuplicateCodeRemover\trunk\Code Duplicate Remover\obj\Debug\Code Duplicate Remover.exe
+D:\QA Tools\DuplicateCodeRemover\trunk\Code Duplicate Remover\obj\Debug\Code Duplicate Remover.pdb
+D:\QA Tools\Mail Server\Code Duplicate Remover\bin\Debug\Code Duplicate Remover.exe.config
+D:\QA Tools\Mail Server\Code Duplicate Remover\bin\Debug\Code Duplicate Remover.exe
+D:\QA Tools\Mail Server\Code Duplicate Remover\bin\Debug\Code Duplicate Remover.pdb
+D:\QA Tools\Mail Server\Code Duplicate Remover\obj\Debug\Code Duplicate Remover.csprojAssemblyReference.cache
+D:\QA Tools\Mail Server\Code Duplicate Remover\obj\Debug\Execute_Selected_Tests.Form1.resources
+D:\QA Tools\Mail Server\Code Duplicate Remover\obj\Debug\Execute_Selected_Tests.Properties.Resources.resources
+D:\QA Tools\Mail Server\Code Duplicate Remover\obj\Debug\Code Duplicate Remover.csproj.GenerateResource.cache
+D:\QA Tools\Mail Server\Code Duplicate Remover\obj\Debug\Code Duplicate Remover.csproj.CoreCompileInputs.cache
+D:\QA Tools\Mail Server\Code Duplicate Remover\obj\Debug\Code Duplicate Remover.exe
+D:\QA Tools\Mail Server\Code Duplicate Remover\obj\Debug\Code Duplicate Remover.pdb

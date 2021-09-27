@@ -1,0 +1,9 @@
+D:\QA Tools\Exception Catcher\Exception Catcher\obj\Debug\Exception Catcher.csprojAssemblyReference.cache
+D:\QA Tools\Exception Catcher\Exception Catcher\obj\Debug\Exception Catcher.csproj.GenerateResource.cache
+D:\QA Tools\Exception Catcher\Exception Catcher\obj\Debug\Exception Catcher.csproj.CoreCompileInputs.cache
+D:\QA Tools\Exception Catcher\Exception Catcher\bin\Debug\Exception Catcher.exe.config
+D:\QA Tools\Exception Catcher\Exception Catcher\bin\Debug\Exception Catcher.exe
+D:\QA Tools\Exception Catcher\Exception Catcher\bin\Debug\Exception Catcher.pdb
+D:\QA Tools\Exception Catcher\Exception Catcher\obj\Debug\Exception Catcher.exe
+D:\QA Tools\Exception Catcher\Exception Catcher\obj\Debug\Exception Catcher.pdb
+D:\QA Tools\Exception Catcher\Exception Catcher\obj\Debug\Exception_Catcher.Properties.Resources.resources

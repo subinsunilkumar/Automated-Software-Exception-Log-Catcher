@@ -1,0 +1,9 @@
+D:\QA Tools\Exception Catcher\Kill Exception Catcher\bin\Debug\Kill Exception Catcher.exe.config
+D:\QA Tools\Exception Catcher\Kill Exception Catcher\bin\Debug\Kill Exception Catcher.exe
+D:\QA Tools\Exception Catcher\Kill Exception Catcher\bin\Debug\Kill Exception Catcher.pdb
+D:\QA Tools\Exception Catcher\Kill Exception Catcher\obj\Debug\Kill Exception Catcher.csprojAssemblyReference.cache
+D:\QA Tools\Exception Catcher\Kill Exception Catcher\obj\Debug\Kill_Exception_Catcher.Properties.Resources.resources
+D:\QA Tools\Exception Catcher\Kill Exception Catcher\obj\Debug\Kill Exception Catcher.csproj.GenerateResource.cache
+D:\QA Tools\Exception Catcher\Kill Exception Catcher\obj\Debug\Kill Exception Catcher.csproj.CoreCompileInputs.cache
+D:\QA Tools\Exception Catcher\Kill Exception Catcher\obj\Debug\Kill Exception Catcher.exe
+D:\QA Tools\Exception Catcher\Kill Exception Catcher\obj\Debug\Kill Exception Catcher.pdb
